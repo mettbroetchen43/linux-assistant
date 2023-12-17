@@ -179,7 +179,7 @@
     "description": "",
     "type": "text"
   },
-  "removableDevicesWarning": "Es wurden {removableDevices} entfernbare Speicher-Geräte/(Partitionen) gefunden. Wenn Du diese aktuell nicht benötigst, wird aufgrund Sicherheitsgründen und der Gesundheit dieser Geräte empfohlen, diese zu entfernen.",
+  "removableDevicesWarning": "Es wurden {removableDevices} entfernbare Speicher-Geräte/Partitionen gefunden. Wenn Du diese aktuell nicht benötigst, wird aus Sicherheitsgründen und der Gesundheit dieser Geräte empfohlen, diese zu entfernen.",
   "@removableDevicesWarning": {
     "placeholders": {
       "removableDevices" : {}
@@ -189,7 +189,7 @@
   },
   "removableDevicesPass": "Es wurden keine entfernbare Speichermedien entdeckt.",
   "swapsPass": "Dein System nutzt Auslagerungsspeicher (Swap). Du musst in dieser Hinsicht nichts unternehmen.",
-  "swapsWarning": "Deinem System fehlt ein Auslagerungsspeicher (Swap). Wenn Dein Arbeitsspeicher voll sein sollte, hat Dein System keine weitere Möglichkeit, Speicher auszulagern. Füge Deinem System entweder einen Swapfile oder eine Swappartiion hinzu.",
+  "swapsWarning": "Deinem System fehlt ein Auslagerungsspeicher (Swap). Wenn Dein Arbeitsspeicher voll sein sollte, hat Dein System keine weitere Möglichkeit, Speicher auszulagern. Füge Deinem System entweder ein Swapfile oder eine Swappartiion hinzu.",
   "topMemoryProcesses": "Aktuell speicherintensivste Prozesse",
   "topCPUProcesses": "Aktuell rechenintensivste Prozesse",
   "cpuUsage": "CPU-Auslastung",
@@ -197,7 +197,7 @@
   "process": "Prozess",
   "runtime": "Laufzeit",
   "memoryAndStorage": "Speicher",
-  "applyUpdatesSinceRelease": "Aktualisiere das System auf den neuesten Stand",
+  "applyUpdatesSinceRelease": "Bringe das System auf den neuesten Stand",
   "applyUpdatesSinceReleaseDescription": "Seit der Veröffentlichung der aktuellen {distro}-Version sind unter Umständen Aktualisierungen verfügbar. Wende diese Aktualisierungen an.",
   "@applyUpdatesSinceReleaseDescription": {
     "placeholders": {
